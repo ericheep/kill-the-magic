@@ -1,5 +1,7 @@
 # kill-the-magic
 
+![kill-the-magic](bright-lights.png)
+
  > I almost made a playlist for a dance party about 8 years back; this dance party I was going to call "Kill the Magic," where I would play a Daft Punk song, and then play the song that Daft Punk sampled directly after. I wanted to dispel the magic behind the litany of Daft Punk songs that acquired their magic from other musicians. But looking back, I don't think I would've accomplished anything.
 
  > I mean, how much do you really care that the groove from 'Harder, Better, Faster, Strong' is sampled from Edwin Birdsong's 'Cola Bottle Baby'?
