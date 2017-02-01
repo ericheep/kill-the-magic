@@ -1,7 +1,5 @@
 # kill-the-magic
 
-![kill-the-magic](bright-lights.png)
-
  > I almost made a playlist for a dance party about 8 years back; this dance party I was going to call "Kill the Magic," where I would play a Daft Punk song, and then play the song that Daft Punk sampled directly after. I wanted to dispel the magic behind the litany of Daft Punk songs that acquired their magic from other musicians. But looking back, I don't think I would've accomplished anything.
 
  > I mean, how much do you really care that the groove from 'Harder, Better, Faster, Strong' is sampled from Edwin Birdsong's 'Cola Bottle Baby'?
@@ -11,3 +9,7 @@
  > So I'm going to take that to the extreme with this performance, with a sort of theatrical Bladerunner narration (as opposed to the narration-less director's cut, which is empirically better). I might even flip a coin to see which version I perform. I might play a song by The Crystals at the end of it, who knows?
 
  > - April 27, 2016
+
+From the last ESP concert of my MFA.
+
+![kill-the-magic](bright-lights.png)
