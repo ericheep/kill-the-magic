@@ -8,4 +8,4 @@
 
  > So I'm going to take that to the extreme with this performance, with a sort of theatrical Bladerunner narration (as opposed to the narration-less director's cut, which is empirically better). I might even flip a coin to see which version I perform. I might play a song by The Crystals at the end of it, who knows?
 
-     - April 27, 2016
+ > - April 27, 2016
